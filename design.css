@@ -1,0 +1,127 @@
+.outer-bg {
+    position: relative;
+    height: 720;
+    background-color: CBF1F5;
+}
+
+.navbar-bg {
+    position: absolute;
+    height: 640;
+    width: 90%;
+    background-color: white;
+    margin-left: 80;
+    margin-top: 50;
+
+}
+
+.inner-bg {
+    position: absolute;
+    height: 560;
+    width: 90%;
+    background-color: A6E3E9;
+    margin-top: 26;
+    margin-left: 70
+}
+
+.home-details {
+    position: relative;
+}
+
+.name {
+    top: 200;
+    left: 200;
+    position: relative;
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 100;
+}
+
+.role {
+    top: 200;
+    left: 200;
+    position: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50
+}
+
+.line-break {
+    display: block;
+    margin-bottom: -50;
+}
+
+.home-details {
+    position: relative;
+}
+
+.profile-img {
+    position: relative;
+    left: 650;
+    bottom: 265;
+    width: fit-content;
+}
+
+.navbar-bg p {
+    margin-left: 300;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.navbar {
+    left: 70;
+    width: 500;
+
+}
+
+.about img {
+    padding-left: 45%;
+}
+
+.about>p {
+    font-weight: 500;
+    font-size: 40;
+    color: 71C9CE;
+    text-align: center;
+}
+
+.details>p {
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+
+    font-size: x-large;
+}
+
+hr {
+    border: dotted black 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.skills img {
+    padding-left: 45%;
+
+}
+
+.skills>p {
+    font-weight: 500;
+    font-size: 40;
+    color: 71C9CE;
+    text-align: center;
+}
+
+.skills-list>ul {
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+
+    font-size: x-large;
+}
+
+.bottom-container {
+    text-align: center;
+    display: block;
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
